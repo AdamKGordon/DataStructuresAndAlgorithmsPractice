@@ -1,0 +1,11 @@
+if the inputs were like:
+
+3
+[[1,0,2],[0,1]]
+
+instead of:
+
+3
+[[1,0],[1,2],[0,1]]
+
+this would work (I assumed that was how the data was going to be given =c ).
